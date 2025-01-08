@@ -1,6 +1,6 @@
-# Daycube
+# DAYCUBE • Minecraft: BE
 
-![image](https://github.com/user-attachments/assets/2bd6e398-7a8f-4d78-99d3-8c6f6585aa81)
+![image](https://github.com/user-attachments/assets/2eb3de2f-9158-4827-80db-b10dc62e6add)
 
 # Links
 
